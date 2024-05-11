@@ -44,6 +44,7 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/yi.svg' }] // 这里是你的 Logo 图片路径
   ],
+  outDir: 'docs',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
