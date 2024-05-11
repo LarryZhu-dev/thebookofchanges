@@ -1,0 +1,16 @@
+.mainLogo {
+  max-width: 320px;
+  max-height: 320px;
+  z-index: 9;
+}
+:root {
+  --vp-home-hero-image-background-image: linear-gradient(
+    -45deg,
+    #ffffff 50%,
+    #000000 50%
+  );
+  --vp-home-hero-image-filter: blur(58px);
+  --vp-c-brand-1: #ffa929;
+  --vp-button-brand-bg: #df8e16;
+  --vp-button-brand-hover-bg: #c77b0f;
+}
