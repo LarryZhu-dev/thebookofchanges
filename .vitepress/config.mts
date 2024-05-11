@@ -42,7 +42,7 @@ export default defineConfig({
   description: "周易",
   base: "/thebookofchanges/",
   head: [
-    ['link', { rel: 'icon', href: '/yi.svg' }] // 这里是你的 Logo 图片路径
+    ['link', { rel: 'icon', href: 'yi.svg' }] // 这里是你的 Logo 图片路径
   ],
   outDir: 'docs',
   themeConfig: {
@@ -63,7 +63,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/LarryZhu-dev/thebookofchanges' }
     ]
   }
 })
