@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as t,a2 as a}from"./chunks/framework.SaK6vuij.js";const m=JSON.parse('{"title":"第二卦 坤 坤为地 坤上坤下","description":"","frontmatter":{},"headers":[],"relativePath":"zhouyi_2.md","filePath":"zhouyi_2.md"}'),_={name:"zhouyi_2.md"},o=a("",28),r=[o];function s(c,i,n,d,h,l){return t(),e("div",null,r)}const f=p(_,[["render",s]]);export{m as __pageData,f as default};

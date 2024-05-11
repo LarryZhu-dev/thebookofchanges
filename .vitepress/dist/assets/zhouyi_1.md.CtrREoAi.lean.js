@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as t,a2 as a}from"./chunks/framework.SaK6vuij.js";const m=JSON.parse('{"title":"第一卦 乾 乾为天 乾上乾下","description":"","frontmatter":{},"headers":[],"relativePath":"zhouyi_1.md","filePath":"zhouyi_1.md"}'),_={name:"zhouyi_1.md"},o=a("",21),r=[o];function s(c,i,n,d,h,l){return t(),e("div",null,r)}const f=p(_,[["render",s]]);export{m as __pageData,f as default};
