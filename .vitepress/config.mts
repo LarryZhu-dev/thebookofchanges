@@ -40,7 +40,7 @@ function numberToChinese(number) {
 export default defineConfig({
   title: "周易",
   description: "周易",
-  base: "thebookofchanges",
+  base: "/thebookofchanges/",
   head: [
     ['link', { rel: 'icon', href: '/yi.svg' }] // 这里是你的 Logo 图片路径
   ],
